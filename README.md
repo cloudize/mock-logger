@@ -19,4 +19,4 @@ $ npm i @apigames/mock-logger
 
 ### License
 
-Copyright (c) 2020 API Games Limited.  All rights reserved.
+Copyright (c) 2021 API Games Limited.  All rights reserved.
