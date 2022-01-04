@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/build-passing-brightgreen)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b8b9301bbef24947842d0c89576a03f1)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=apigames-private/mock-logger&amp;utm_campaign=Badge_Grade)
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/b8b9301bbef24947842d0c89576a03f1)](https://www.codacy.com?utm_source=github.com&utm_medium=referral&utm_content=apigames-private/mock-logger&utm_campaign=Badge_Coverage)
 ![](https://img.shields.io/badge/license-UNLICENSED-blue)
 
 This package includes the mock logger implementation of the ILogger interface for the API Games Platform.
