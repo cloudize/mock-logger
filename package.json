@@ -3,7 +3,7 @@
   "author": "API Games Limited",
   "description": "API Games Mock Logger",
   "license": "UNLICENSED",
-  "version": "22.1.0-dev.6",
+  "version": "22.1.0-dev.7",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -23,7 +23,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "@apigames/logger": "22.1.0-dev.6"
+    "@apigames/logger": "22.1.0-dev.7"
   },
   "devDependencies": {
     "@types/jest": "27.4.0",
