@@ -19,8 +19,8 @@ $ npm i @apigames/mock-logger
 
 ## Authors or Acknowledgments
 
-*   API Games Limited
+*   Cloudize Limited
 
 ## License
 
-Copyright (c) 2022 API Games Limited.  All rights reserved.
+Copyright (c) 2022 Cloudize Limited.  All rights reserved.
