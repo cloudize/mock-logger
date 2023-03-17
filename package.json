@@ -1,5 +1,5 @@
 {
-  "name": "@apigames/mock-logger",
+  "name": "@cloudize/mock-logger",
   "author": {
     "name" : "Cloudize Limited",
     "email" : "hello@cloudize.net",
@@ -11,7 +11,7 @@
       "email" : "erich.kuba@cloudize.net"
     }
   ],
-  "description": "API Games Mock Logger",
+  "description": "Cloudize Mock Logger",
   "license": "MIT",
   "version": "23.1.5",
   "main": "lib/index.js",
@@ -33,7 +33,7 @@
     "test:watch": "jest --watch"
   },
   "dependencies": {
-    "@apigames/logger": "23.1.6"
+    "@cloudize/logger": "23.1.6"
   },
   "devDependencies": {
     "@types/jest": "29.5.0",
@@ -53,10 +53,10 @@
   "eslintConfig": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apigames-core/mock-logger.git"
+    "url": "git+https://github.com/cloudize/mock-logger.git"
   },
   "bugs": {
-    "url": "https://github.com/apigames-core/mock-logger/issues"
+    "url": "https://github.com/cloudize/mock-logger/issues"
   },
-  "homepage": "https://github.com/apigames-core/mock-logger#readme"
+  "homepage": "https://github.com/cloudize/mock-logger#readme"
 }

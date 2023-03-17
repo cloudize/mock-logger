@@ -1,4 +1,4 @@
-import { LoggerMessageType } from '@apigames/logger';
+import { LoggerMessageType } from '@cloudize/logger';
 import { MockLogger } from '../../../lib';
 
 afterEach(() => {
