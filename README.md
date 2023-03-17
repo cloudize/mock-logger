@@ -6,7 +6,6 @@
 ![](https://img.shields.io/npm/v/@apigames/mock-logger)
 ![](https://img.shields.io/badge/license-MIT-blue)
 
-
 This package includes the mock logger implementation of the ILogger interface for the API Games Platform.
 
 ## List of features
